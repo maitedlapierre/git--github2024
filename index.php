@@ -6,6 +6,21 @@
     <title>Document</title>
 </head>
 <body>
-    Olá mundo!
+    <table>
+        <thead> 
+            <tr>
+                <th> ID </th>
+                <th> e-mail </th>
+                <th colspan= 2> Opções </th>
+</tr>
+</thead>
+<tbody> 
+<tr> 
+    <td> 1 </td>
+    <td> Maite </td> 
+    <td> alterar </td> 
+    <td> excluir </td> 
+</tr>
+</tbody>
 </body>
 </html>
