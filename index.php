@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
+    <a href="form.php"> Cadastrar</a>
     <table>
         <thead> 
             <tr>
@@ -22,5 +23,6 @@
     <td> excluir </td> 
 </tr>
 </tbody>
+</table>
 </body>
 </html>
